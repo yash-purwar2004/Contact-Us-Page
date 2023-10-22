@@ -20,4 +20,4 @@ Very Simple!! Just clone and open index.html file
 - Yogesh
 
 ## Star!!
-I will be very thankful to you if you give this creation of mine a big star.
+I will be very thankful to you if you give this creation  a big star.
